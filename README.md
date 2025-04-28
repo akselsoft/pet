@@ -1,5 +1,5 @@
 # Pattern Existence Theory (PET)
-# Towards Consciousness Project
+### Based on Towards Consciousness
 
 ⸻
 
