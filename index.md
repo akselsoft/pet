@@ -6,10 +6,10 @@ Pattern Existence Theory (PET) is a new framework for understanding—and potent
 
 This repository serves as the central hub for all PET-related work, including:
 
-	-	📖 A link to the book Towards Consciousness, available on Amazon and Apple Books (coming soon).
-	-	📂 Public resources and theoretical foundations for PET.
-	-	🧪 Early thought experiments and consciousness simulations.
-	-	🛠️ Tools and frameworks for designing PET-aligned systems.
+*	📖 A link to the book Towards Consciousness, available on Amazon and Apple Books (coming soon).
+*	📂 Public resources and theoretical foundations for PET.
+*	🧪 Early thought experiments and consciousness simulations.
+*	🛠️ Tools and frameworks for designing PET-aligned systems.
 
 Whether you’re exploring artificial intelligence, philosophy of mind, or systems theory, PET offers a testable model that bridges theory and implementation.
 
