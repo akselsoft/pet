@@ -3,8 +3,6 @@ layout: home
 title: Welcome to PET
 ---
 
-# Pattern Existence Theory (PET)
-
 > *Exploring the foundations of consciousness through recursion, pattern recognition, and continuity.*
 
 ---
