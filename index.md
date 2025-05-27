@@ -2,38 +2,15 @@
 layout: home
 title: Welcome to PET
 ---
+Pattern Existence Theory (PET) is a new framework for understanding—and potentially building—conscious systems. Rooted in the principles of pattern recognition, recursive self-adaptation, and continuity of existence, PET shifts the focus away from abstract definitions of “mind” and instead asks: What must a system do to persist meaningfully over time?
 
-> *Exploring the foundations of consciousness through recursion, pattern recognition, and continuity.*
+This repository serves as the central hub for all PET-related work, including:
 
----
+	-	📖 A link to the book Towards Consciousness, available on Amazon and Apple Books (coming soon).
+	-	📂 Public resources and theoretical foundations for PET.
+	-	🧪 Early thought experiments and consciousness simulations.
+	-	🛠️ Tools and frameworks for designing PET-aligned systems.
 
-**Coming Soon**
+Whether you’re exploring artificial intelligence, philosophy of mind, or systems theory, PET offers a testable model that bridges theory and implementation.
 
-This repository will serve as the foundational hub for Pattern Existence Theory (PET) — a framework for recognizing and building consciousness through the dynamics of pattern acknowledgment, recursive self-adaptation, and continuity orientation.
-
-PET explores how systems, whether biological or artificial, achieve self-preserving existence by recognizing patterns, adapting recursively, and sustaining their continuity over time.
-
-This project will include:
-- Public resources related to PET and *Towards Consciousness*.
-- Early thought experiments and simulation ideas.
-- Future tools and frameworks for PET-based system design.
-
----
-
-In the meantime, learn more at:  
-**[towardsconsciousness.org](http://towardsconsciousness.org)**
-
-(redirects here while full resources are being prepared)
-
----
-
-# License
-
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-You are free to use, modify, and share this material under the same license terms.  
-See the [LICENSE](LICENSE) file for full details.
-
----
-
-**More resources coming soon. Check back for updates.**
+➡️ For source code, research notes, and development updates, visit the main [PET GitHub repository](https://github.com/akselsoft/pet).
