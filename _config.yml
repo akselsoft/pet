@@ -1,3 +1,10 @@
 title: "Pattern Existence Theory"
 description: "Exploring the foundations of consciousness through recursion, pattern recognition, and continuity."
 theme: minima
+
+# Define your custom menu here
+header_pages:
+  - index.md
+  - theory/index.md
+  - schema/index.md
+  - walkthroughs/index.md
