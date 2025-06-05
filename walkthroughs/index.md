@@ -99,3 +99,66 @@ The system now starts to track **contradictory patterns** and context (e.g., *no
 ---
 
 Next: [Explore the Schema](./db) to see how this is formalized in a Graph and KeyPair database.
+
+---
+
+layout: default
+title: Walkthrough Index
+---
+
+# 🧪 PET Walkthroughs: From Observation to Belief
+
+This section walks through how PET-based systems evolve understanding through pattern exposure.  
+The goal is to illustrate the **steps that occur before and during formal pattern encoding** in the schema.
+
+---
+
+## 🧭 High-Level Stages of Pattern Development
+
+PET walks through the world like a child learning to name and relate what it sees. The stages below form the cognitive arc:
+
+### 1. Observation  
+>
+> A pattern is received via one or more sensory inputs (e.g., visual, audio, tactile).  
+Patterns: shape, color, sound, motion...
+
+### 2. Association  
+>
+> A label or name is applied (e.g., “Dog”) — sometimes guessed, sometimes taught.
+
+### 3. Reinforcement  
+>
+> The same pattern shows up repeatedly — strengthening the label.
+
+### 4. Generalization  
+>
+> The system starts noticing shared properties across similar patterns and begins forming implicit categories.
+
+### 5. Anomaly or Contradiction  
+>
+> A new input violates the assumed pattern (e.g., a dog statue). The system adjusts confidence or context.
+
+### 6. Conflict and Refinement  
+>
+> Conflicting experiences (e.g., Dog → Friendly vs Dog → Pain) force the system to split contexts or downgrade beliefs.
+
+---
+
+## 🔍 Browse the Example Gallery
+
+To see how these stages appear in real scenarios:
+
+- [Walkthrough Gallery](./gallery.md)
+
+Scenarios include:
+
+- Recognizing a face
+- Learning “Dog = Dangerous”
+- Rewriting beliefs after new experiences
+- Recursive conflict resolution in belief systems
+
+---
+
+## 📘 Next Steps
+
+Once familiar with how raw patterns become beliefs, [Explore the Schema](../schema/) to see how this is structured using nodes, edges, and understanding history.
