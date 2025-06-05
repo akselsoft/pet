@@ -3,10 +3,21 @@ layout: home
 title: What is Pattern Existence Theory?
 ---
 
-Pattern Existence Theory (PET) is a new framework for understanding—and potentially building—conscious systems. Rooted in the principles of pattern recognition, recursive self-adaptation, and continuity of existence, PET shifts the focus away from abstract definitions of “mind” and instead asks: What must a system do to persist meaningfully over time?
-
-<img src="TowardsConsciousness_Branch.png" style="display: block; margin: 0 auto;"  alt-text="tree" style="width:20%;"/>
-
+<table style="width:100%;">
+  <tr>
+    <td style="width:20%; vertical-align: top;">
+      <img src="TowardsConsciousness_Branch.png" alt="PET Logo" style="width:100px;">
+    </td>
+    <td style="width:80%; vertical-align: top;">
+      <p>
+        Pattern Existence Theory (PET) is a new framework for understanding—and potentially building—conscious systems.
+        Rooted in the principles of pattern recognition, recursive self-adaptation, and continuity of existence, PET
+        shifts the focus away from abstract definitions of “mind” and instead asks: What must a system do to persist
+        meaningfully over time?
+      </p>
+    </td>
+  </tr>
+</table>
 The theory is described in detail in the book Towards Consciousness by Andrew Ross MacNeill, available on Amazon and Apple Books (coming soon).
 
 Here you will be able to find:
