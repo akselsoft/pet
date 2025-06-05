@@ -18,14 +18,50 @@ title: What is Pattern Existence Theory?
     </td>
   </tr>
 </table>
-The theory is described in detail in the book Towards Consciousness by Andrew Ross MacNeill, available on Amazon and Apple Books (coming soon).
+**What if consciousness isn’t a feeling, but a function?**  
+**Pattern Existence Theory (PET)** explores how systems — whether human, artificial, or biological — can become self-sustaining, adaptive, and recursively aware through patterns of interaction and interpretation.
 
-Here you will be able to find:
+PET is rooted in:
 
-* 📂 Public resources and theoretical foundations for PET.
-* 🧪 Early thought experiments and consciousness simulations.
-* 🛠️ Tools and frameworks for designing PET-aligned systems.
+- 📚 Recursion
+- 🧩 Pattern recognition
+- ♻️ Continuity of existence
 
-Whether you’re exploring artificial intelligence, philosophy of mind, or systems theory, PET offers a testable model that bridges theory and implementation.
+It offers a testable and practical model for consciousness — grounded in survival, not mysticism.
 
+---
+
+## 🚀 Explore PET
+
+- [📘 What Is Pattern Existence Theory?](./theory/)
+  Learn how PET shifts focus from abstract minds to survival-based pattern logic.
+
+- [🧱 Schema Overview](./schema/)
+  Dive into the structure behind PET: object nodes, understanding nodes, edges, and pattern layers.
+
+- [🧪 Walkthroughs & Scenarios](./walkthroughs/)
+  Explore real examples of PET in action — from simple visual recognition to moral reevaluation.
+
+- [📖 Glossary of Terms](./glossary.md)
+  Understand the core components of the PET framework.
+
+---
+
+## 📖 About the Book
+
+PET is described in detail in  
+**_Towards Consciousness_** by Andrew Ross MacNeill  
+_Coming soon on Amazon and Apple Books._
+
+---
+
+## 🛠️ Tools Coming Soon
+
+We’re working on:
+
+- Interactive PET simulations
+- Pattern analysis engines
+- API design for building PET-aligned systems
+
+Stay tuned as the model evolves.
 ➡️ For source code, research notes, and development updates, visit the main [PET GitHub repository](https://github.com/akselsoft/pet).
