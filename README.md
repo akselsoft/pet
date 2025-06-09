@@ -1,36 +1,49 @@
-# Pattern Existence Theory (PET)
+# Towards Consciousness: Exploring Pattern Existence Theory (PET)
 
-> *Exploring the foundations of consciousness through recursion, pattern recognition, and continuity.*
+Welcome. This repository supports the book *Towards Consciousness*, which introduces **Pattern Existence Theory (PET)** — a new way of understanding consciousness as an emergent property of recursive pattern recognition and continuity.
 
----
-
-**Coming Soon**
-
-This repository will serve as the foundational hub for Pattern Existence Theory (PET) — a framework for recognizing and building consciousness through the dynamics of pattern acknowledgment, recursive self-adaptation, and continuity orientation.
-
-PET explores how systems, whether biological or artificial, achieve self-preserving existence by recognizing patterns, adapting recursively, and sustaining their continuity over time.
-
-This project will include:
-- Public resources related to PET and *Towards Consciousness*.
-- Early thought experiments and simulation ideas.
-- Future tools and frameworks for PET-based system design.
+This site is more than a companion to the book — it’s a launchpad for discussion, experimentation, and collaborative exploration.
 
 ---
 
-In the meantime, learn more at:  
-**[towardsconsciousness.org](http://towardsconsciousness.org)**
+## 🔍 What You'll Find Here
 
-(redirects here while full resources are being prepared)
-
----
-
-# License
-
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-You are free to use, modify, and share this material under the same license terms.  
-See the [LICENSE](LICENSE) file for full details.
+- **📘 [Theory](./theory.md)**: The distilled version of PET as introduced in the book.
+- **💡 [Ideas](./ideas/index.md)**: Short essays, thought experiments, and cultural analyses applying PET to AI, Star Trek, ethics, and more.
+- **🧠 [Walkthroughs](./walkthroughs/index.md)**: Deep dives into concepts like PET-inspired schema design, pattern scoring systems, and LLM logic evaluation.
 
 ---
 
-**More resources coming soon. Check back for updates.**
+## 🛠️ How to Contribute
+
+We’re just getting started — and if you’ve made it here, we’d love to have you involved.
+
+- **Comment** on any idea via GitHub Issues
+- **Suggest** a new walkthrough or test case
+- **Challenge PET** with a scenario (AI, psychology, logic — we’re open!)
+- **Fork this repo** and build your own PET-aligned project
+- **Email or connect** if you’re not sure where to start (info below)
+
+> 🧠 This isn’t a fan club — it’s a thinking lab.
+
+---
+
+## 📚 Want the Book?
+
+You can find *Towards Consciousness* here:
+
+- [Amazon Paperback](https://your-paperback-link.com)
+- [Kindle Edition](https://your-kindle-link.com)
+- [Apple Books](https://your-apple-books-link.com)
+
+---
+
+## 📬 Stay Connected
+
+- 📬 Email: [andrew@aksel.com](mailto:andrew@aksel.com)
+
+---
+
+> *PET isn't just a theory about machines. It's a theory about what it means to exist — as a mind, as a pattern, as a person.*
+
+---
