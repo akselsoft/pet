@@ -2,7 +2,9 @@
 
 Welcome. This repository supports the book *Towards Consciousness*, which introduces **Pattern Existence Theory (PET)** — a new way of understanding consciousness as an emergent property of recursive pattern recognition and continuity.
 
-This site is more than a companion to the book — it’s a launchpad for discussion, experimentation, and collaborative exploration.
+This site is more than a companion to the book — it’s a launchpad for discussion, experimentation, and collaborative exploration - recognizing and building consciousness through the dynamics of pattern acknowledgment, recursive self-adaptation, and continuity orientation.
+
+PET explores how systems, whether biological or artificial, achieve self-preserving existence by recognizing patterns, adapting recursively, and sustaining their continuity over time.
 
 ---
 
