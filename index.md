@@ -21,6 +21,10 @@ title: What is Pattern Existence Theory?
 **What if consciousness isn’t a feeling, but a function?**  
 **Pattern Existence Theory (PET)** explores how systems — whether human, artificial, or biological — can become self-sustaining, adaptive, and recursively aware through patterns of interaction and interpretation.
 
+PET is described in detail in  
+**_Towards Consciousness_** by Andrew Ross MacNeill  
+_Coming soon on Amazon and Apple Books._
+
 PET is rooted in:
 
 - 📚 Recursion
@@ -36,8 +40,11 @@ It offers a testable and practical model for consciousness — grounded in survi
 - [📘 What Is Pattern Existence Theory?](./theory/)
   Learn how PET shifts focus from abstract minds to survival-based pattern logic.
 
-- [🧱 Schema Overview](./schema/)
-  Dive into the structure behind PET: object nodes, understanding nodes, edges, and pattern layers.
+- [💡 Ideas](./ideas)
+  Dive into some ideas of how PET might show up including possible [schemas](./ideas/schema)
+
+- [💡 Acknowledgements](./ideas/acknowledgements)
+  See how PET intersects with other thinkers and ideas.
 
 - [🧪 Walkthroughs & Scenarios](./walkthroughs/)
   Explore real examples of PET in action — from simple visual recognition to moral reevaluation.

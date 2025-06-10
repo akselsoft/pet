@@ -1,3 +1,8 @@
+---
+layout: default
+title: Understanding Nodes
+---
+
 # Understanding Nodes
 
 In the PET schema, **Understanding Nodes** represent the contextual basis or justification for relationships between nodes. They are not direct links themselves, but rather the explanation or source behind why an edge exists.

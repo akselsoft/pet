@@ -1,8 +1,7 @@
 ---
-
-title: Node Types
 layout: default
----------------
+title: "Node Types"
+---
 
 # 🧩 Node Types in PET
 
