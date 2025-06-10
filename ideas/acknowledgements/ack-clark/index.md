@@ -4,7 +4,7 @@ layout: home
 tags: [acknowledgement, theory]
 ---
 
-[← Back to Acknowledgements](/ideas/acknowledgements/)
+[← Back to Acknowledgements](../../acknowledgements)
 
 ## Andy Clark – The Extended Mind and Predictive Processing
 

@@ -4,7 +4,7 @@ layout: home
 tags: [acknowledgement, theory]
 ---
 
-[← Back to Acknowledgements](/ideas/acknowledgements/)
+[← Back to Acknowledgements](../../acknowledgements)
 
 ## Aristotle – Soul as the Organizing Form
 

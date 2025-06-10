@@ -4,7 +4,7 @@ layout: home
 tags: [acknowledgement, theory]
 ---
 
-[← Back to Acknowledgements](/ideas/acknowledgements/)
+[← Back to Acknowledgements](../../acknowledgements)
 
 ## Thomas Metzinger – The Self as a Model
 
