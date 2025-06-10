@@ -5,6 +5,5 @@ theme: minima
 # Define your custom menu here
 header_pages:
   - index.md
-  - theory/index.md
-  - schema/index.md
-  - walkthroughs/index.md
+  - ideas/index.md
+  
