@@ -21,12 +21,5 @@ Think of this area as a **sandbox**: informal, provocative, and always open to i
 If something sparks while reading — a contradiction, an experiment, or a better way to model PET — you're invited to [share](https://github.com/akselsoft/pet/issues) it.
 
 We treat ideas here as patterns worth evolving
----
-
-📌 Looking for walkthroughs? Start with [Recognizing Patterns Before Structure](../walkthroughs/).
-
-📌 Interested in structural implementation? See the [GraphPET Schema](./graphpet/).
-
-📌 Want to challenge the model? Try [Contradiction and Override](../walkthroughs/contradictory-inputs).
 
 ---

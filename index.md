@@ -49,9 +49,6 @@ It offers a testable and practical model for consciousness — grounded in survi
 - [🧪 Walkthroughs & Scenarios](./walkthroughs/)
   Explore real examples of PET in action — from simple visual recognition to moral reevaluation.
 
-- [📖 Glossary of Terms](./glossary.md)
-  Understand the core components of the PET framework.
-
 ---
 
 ## 📖 About the Book
