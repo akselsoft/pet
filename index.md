@@ -23,7 +23,7 @@ title: What is Pattern Existence Theory?
 
 PET is described in detail in  
 **_Towards Consciousness_** by Andrew Ross MacNeill  
-Available on [Amazon](https://amzn.to/43QvEaB) and [Apple Books](https://books.apple.com/us/book/towards-consciousness/id6745515501?ls=1)._
+Available on [Amazon](https://amzn.to/43QvEaB) and [Apple Books](https://books.apple.com/us/book/towards-consciousness/id6745515501?ls=1).
 
 PET is rooted in:
 
