@@ -1,17 +1,26 @@
 ---
-title: David Chalmers – The Hard Problem of Consciousness
-layout: home
-tags: [acknowledgement, theory]
+layout: default
+title: David Chalmers
 ---
 
-[← Back to Acknowledgements](../../acknowledgements)
+[← Back to Acknowledgements](../)
 
-## David Chalmers – The Hard Problem of Consciousness
+# David Chalmers – The Hard Problem and Non-Reduction
 
-**Source:** *Facing Up to the Problem of Consciousness* (1995); *The Conscious Mind* (1996)
+## Description  
+David Chalmers is known for framing the **“hard problem of consciousness”**—the question of why subjective experience arises from physical processes at all. While most theories focus on *how* the brain processes information, Chalmers asks *why* those processes should feel like anything from the inside.
 
-**Summary:** Chalmers distinguishes between easy problems (function) and the hard problem (subjective experience).
+He proposes **property dualism** or **panpsychism** as possible answers: the idea that consciousness might be a fundamental property of the universe, much like mass or charge.
 
-**Resonance with PET:** PET does not reject qualia, but sidesteps them. It defines consciousness operationally.
+## Resonance  
+PET respects the framing of the problem: not every system that processes information is conscious. PET also rejects shallow reductionism and agrees that *recursive context and continuity* are what separate inert data from conscious interpretation.
 
-**Divergence:** PET treats subjective feeling as non-essential. It cares about recursive evaluation and persistence.
+## Reframing  
+Where Chalmers stops at **mystery**, PET offers a structural mechanism.
+
+Chalmers says: “We don’t know why consciousness arises.”  
+PET says: “It arises when a system recursively evaluates patterns to preserve its own existence.”
+
+Subjective experience—what it “feels like”—is not a bonus trait. It’s a **recursive effect** of patterns being reinterpreted in light of their continuity. PET doesn’t posit a new property—it models how such experiences emerge from **recursive structure**, not brute matter.
+
+> PET reframes the “hard problem” as a **modeling gap**, not a metaphysical wall.

@@ -5,7 +5,7 @@ title: Acknowledgements
 
 This section highlights thinkers, works, and collaborators who have meaningfully influenced or intersected with PET.
 
-Some acknowledgements simply repeat material from the book.
+Some acknowledgements simply repeat material from the book.  
 Others go further—extending those connections or exploring where PET might respectfully diverge.
 
 ---
@@ -26,6 +26,11 @@ Others go further—extending those connections or exploring where PET might res
 - [Metzinger and the Self-Model Theory](./ack-metzinger)
 - [Friston and the Free Energy Principle](./ack-friston)
 - [Tegmark and Perceptronium](./ack-tegmark)
+- [Barrett and Constructed Emotion](./ack-barrett)
+- [Llinás and Oscillatory Consciousness](./ack-llinas)
+- [Chella and the Narrative Robot](./ack-chella)
+- [Thompson and Enactivism](./ack-thompson)
+- [Kurzweil and Pattern Uploading](./ack-kurzweil)
 
 ---
 
