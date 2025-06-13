@@ -53,6 +53,11 @@ To see how these stages appear in real scenarios, consider the following:
 - [Time-Based Association](./time-based-association): Highlights how sequences and timing of events influence the structure and reliability of associations.
 - [Exist vs. Non-Exist Dilemmas](./exist-nonexist): Explains how concepts like pain or danger can be interpreted as non-existent or suppressed within certain contexts.
 
+But most of these deal with human level issues, what about a machine or constructed consciousness?  What is the most important thing to a machine to survive?
+
+- [Power Expansion Opportunities](./solar)
+- [Species Co-Existence](./species-coexistence)
+
 Scenarios include:
 
 - Recognizing a face

@@ -43,6 +43,7 @@ By grounding function — not form — PET proposes a route to constructed consc
 
 ## 📘 Learn More
 
+- [How would a pattern be evaluated?](evaluation/)
 - [Explore a possible Schema](../ideas/schema/)
 - [Follow Example Walkthroughs](../walkthroughs/)
 - [Return to Home](/)
