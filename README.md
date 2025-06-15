@@ -33,7 +33,7 @@ We’re just getting started — and if you’ve made it here, we’d love to ha
 You can find *Towards Consciousness* here:
 
 - [Amazon Paperback](https://a.co/d/dnUr4gg)
-- [Kindle Edition (US)]((https://amzn.to/3ZuMYze)
+- [Kindle Edition (US)](https://amzn.to/3ZuMYze)
 - [Apple Books](https://books.apple.com/us/book/towards-consciousness/id6745515501?ls=1)
 
 ---
