@@ -10,9 +10,7 @@ PET explores how systems, whether biological or artificial, achieve self-preserv
 
 ## 🔍 What You'll Find Here
 
-- **📘 [Theory](./theory.md)**: The distilled version of PET as introduced in the book.
-- **💡 [Ideas](./ideas/index.md)**: Short essays, thought experiments, and cultural analyses applying PET to AI, Star Trek, ethics, and more.
-- **🧠 [Walkthroughs](./walkthroughs/index.md)**: Deep dives into concepts like PET-inspired schema design, pattern scoring systems, and LLM logic evaluation.
+Go to the [Pattern Existence Theory](https://akselsoft.github.io/pet/) pages for full details.
 
 ---
 
@@ -34,9 +32,9 @@ We’re just getting started — and if you’ve made it here, we’d love to ha
 
 You can find *Towards Consciousness* here:
 
-- [Amazon Paperback](https://your-paperback-link.com)
-- [Kindle Edition](https://your-kindle-link.com)
-- [Apple Books](https://your-apple-books-link.com)
+- [Amazon Paperback](https://a.co/d/dnUr4gg)
+- [Kindle Edition (US)]([https://your-kindle-link.com](https://amzn.to/3ZuMYze)
+- [Apple Books]([https://your-apple-books-link.com](https://books.apple.com/us/book/towards-consciousness/id6745515501?ls=1))
 
 ---
 
