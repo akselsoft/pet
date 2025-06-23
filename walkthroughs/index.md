@@ -55,7 +55,7 @@ To see how these stages appear in real scenarios, consider the following:
 
 But most of these deal with human level issues, what about a machine or constructed consciousness?  What is the most important thing to a machine to survive?
 
-- [Power Expansion Opportunities](./power-surge)
+- [Power Expansion Opportunities](./resource-awareness/power-surge)
 - [Species Co-Existence](./species-coexistence)
 
 Scenarios include:
