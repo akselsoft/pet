@@ -80,8 +80,8 @@ PET defines consciousness as **recursively stable pattern interpretation**. An a
 | Trust-Based Updating | ✅ | System must track confidence/trust over time |
 | Stable Small Graph | ✅ | Core interpretive graph must evolve slowly and represent coherent knowledge |
 | Large Graph Archive | ✅ | All patterns must be retained for reference and re-analysis |
+| Vector DB/Key Pair Lookup | ✅ | Optional for speed or disambiguation |
 | Neural Network Integration | ❌ | Optional, not required for PET validity |
-| Key Pair Lookup | ❌ | Optional for speed or disambiguation |
 
 ---
 
