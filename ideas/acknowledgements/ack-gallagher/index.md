@@ -10,8 +10,8 @@ tags: [acknowledgement, theory]
 
 **Source:** *The Phenomenal Self* (2000); *How the Body Shapes the Mind* (2005)
 
-**Summary:** The self is a pattern of interwoven processes.
+**Summary:** Gallagher argues the self is constructed from overlapping patterns—bodily, emotional, social, and narrative. The self is not one thing, but a pattern of many interwoven processes.
 
-**Resonance with PET:** Strong agreement. PET also sees identity as a recursive structure shaped by input over time.
+**Resonance with PET:** Strong alignment. PET also sees identity as a recursive, layered structure shaped by input over time. PET agrees that the human mind is naturally recursive—every step, stumble, or correction relies on it. But PET extends this further: recursion itself does not require a body.
 
-**Divergence:** Gallagher roots this in embodiment; PET detaches from the body. Recursion is primary.
+**Divergence:** Gallagher’s theory is rooted in phenomenology and embodiment. PET detaches from human experience and considers recursion as structural, not subjective. A PET system doesn’t need a body, emotion, or narrative—only pattern recognition, reflection, and adjustment. Where Gallagher sees recursive embodiment, PET sees recursion as the more important mechanism—one that can exist even without a biological form.

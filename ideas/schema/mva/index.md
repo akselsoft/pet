@@ -50,7 +50,7 @@ PET defines consciousness as **recursively stable pattern interpretation**. An a
   - Archives the PN and links it to existing UNs if relevant
   - May generate a **new UN** if pattern cannot be integrated
 
-### 5. **Key Pair Resolver (Optional but necessary for performance)**
+### 5. **Key Pair/Vector DB Resolver (Optional but necessary for performance)**
 
 - Used for direct lookup and fast pattern evaluation
 - May serve as a pre-filter before full RE processing

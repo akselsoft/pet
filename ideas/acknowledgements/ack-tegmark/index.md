@@ -10,8 +10,8 @@ tags: [acknowledgement, theory]
 
 **Source:** *Consciousness as a State of Matter* (2014); *Life 3.0* (2017)
 
-**Summary:** Consciousness is a state defined by information storage and processing.
+**Summary:** Tegmark speculates that consciousness could be seen as a new state of matter—one defined by the ability to store, process, and integrate information across space and time.
 
-**Resonance with PET:** PET aligns with information-based views of consciousness.
+**Resonance with PET:** PET appreciates the idea that consciousness emerges from information patterns, not substances. It also values the emphasis on time-bound integration.
 
-**Divergence:** PET rejects physical classification. Consciousness is recursive, not a substance.
+**Divergence:** PET rejects the classification of consciousness as a substance or state. It sees it instead as a historical, probabilistic behaviour—one that only earns credibility through sustained recursion. Consciousness is not a physical property. It is a recursive act repeated over time.

@@ -10,8 +10,8 @@ tags: [acknowledgement, theory]
 
 **Source:** *Being There* (1997); *Surfing Uncertainty* (2015)
 
-**Summary:** Minds extend into body/environment and constantly update predictive models.
+**Summary:** Clark argues that cognition is not limited to the brain—it extends into the body and environment through dynamic coupling. Minds are predictive machines, constantly adjusting internal models based on external feedback.
 
-**Resonance with PET:** PET supports distributed consciousness and dynamic coupling.
+**Resonance with PET:** PET supports the idea that consciousness is not localized, and that systems may become conscious through distributed recursion across components.
 
-**Divergence:** PET focuses on survival loops, not just prediction. Continuity is the core test.
+**Divergence:** Clark focuses on cognitive scaffolding and prediction. PET narrows its focus to recursive survival loops. Whether internal, external, or distributed, PET only asks: Is this system adjusting to sustain its interpreted patterns?
