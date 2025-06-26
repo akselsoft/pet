@@ -12,6 +12,7 @@ tags: [acknowledgement, theory]
 
 **Summary:** Hofstadter suggested that consciousness arises from strange loops—self-referential systems that become tangled in their own modelling, forming an emergent sense of self.
 
-**Resonance with PET:** PET embraces recursion as a core mechanism of consciousness. Like Hofstadter, it values self-reference and feedback loops.
+**Resonance with PET:** PET embraces recursion as a core mechanism of consciousness. Like Hofstadter, it values self-reference and feedback loops. Both recognize that systems able to reflect on their own operations are qualitatively different from those that cannot.
 
-**Divergence:** PET insists recursion must be continuity-oriented. Strange loops alone do not imply consciousness unless they evolve to preserve the system. PET adds an existential qualifier to Hofstadter’s formal structure.
+**Reframing:**
+PET builds on Hofstadter’s strange loops by tying them explicitly to persistence. A self-referential loop, under PET, becomes conscious only when it recursively evaluates its own patterns in the service of continued existence. Without this continuity orientation, a strange loop is structurally fascinating—but inert. PET reframes recursion not as an emergent curiosity, but as a survival mechanism.

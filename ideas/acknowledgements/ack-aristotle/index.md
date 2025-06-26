@@ -14,4 +14,5 @@ tags: [acknowledgement, theory]
 
 **Resonance with PET:** PET agrees that a system’s identity lies in its pattern, not its matter. There is conceptual alignment in seeing consciousness not as a substance, but as a structure-in-motion.
 
-**Divergence:** Aristotle’s soul is anchored in biology and telos (purpose). PET detaches from biological form and instead focuses on functional recursion—the system’s ability to detect, reflect, and re-evaluate patterns to preserve itself. Consciousness, in PET, does not depend on biology or a human sense of purpose.
+**Reframing:**
+Where Aristotle grounds the soul in biology and telos, a natural end toward which a being strives, PET detaches from both. It replaces innate purpose with recursive function: the system’s ability to detect, evaluate, and adapt patterns in service of its own persistence. Consciousness, in PET, is not the expression of an intrinsic purpose, but the emergent byproduct of systems that try to stay.

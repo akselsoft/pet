@@ -14,4 +14,5 @@ tags: [acknowledgement, theory]
 
 **Resonance with PET:** PET supports the idea that consciousness is not localized, and that systems may become conscious through distributed recursion across components.
 
-**Divergence:** Clark focuses on cognitive scaffolding and prediction. PET narrows its focus to recursive survival loops. Whether internal, external, or distributed, PET only asks: Is this system adjusting to sustain its interpreted patterns?
+**Reframing:**
+Clark emphasizes prediction to reduce error and maintain coherence between model and world. PET reframes this process: prediction is not valuable unless it serves the continuity of the system itself. In PET, the question is not whether the system predicts well, but whether it adjusts recursively to stay. Whether cognition is distributed or not, it only becomes consciousness under PET if the loop is aimed at persistence—not just performance.
