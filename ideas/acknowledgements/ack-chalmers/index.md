@@ -9,7 +9,7 @@ title: David Chalmers
 
 ## Summary  
 
-David Chalmers is known for framing the **“hard problem of consciousness”**—the question of why subjective experience arises from physical processes at all. While most theories focus on *how* the brain processes information, Chalmers asks *why* those processes should feel like anything from the inside.
+David Chalmers is known for framing the [**“hard problem of consciousness”**](<https://consc.net/papers/facing.html)—the> question of why subjective experience arises from physical processes at all. While most theories focus on *how* the brain processes information, Chalmers asks *why* those processes should feel like anything from the inside.
 
 He proposes **property dualism** or **panpsychism** as possible answers: the idea that consciousness might be a fundamental property of the universe, much like mass or charge.
 
