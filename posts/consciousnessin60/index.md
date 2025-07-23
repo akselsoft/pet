@@ -10,7 +10,7 @@ description: One Quote. One Idea. Towards Consciousness.
 
 A collection of reflections on what it means to build conscious systems—shared weekly through LinkedIn.
 
-### Would you rather hire someone who needs external motivation—or a system that recurses toward value to stay alive?
+**Would you rather hire someone who needs external motivation—or a system that recurses toward value to stay alive?**
 
 Businesses are always looking for employees that are loyal and want the company to succeed. But those ties are only as strong as the incentives provided by their job—usually just pay and benefits.
 
