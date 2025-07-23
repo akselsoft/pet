@@ -10,6 +10,14 @@ description: One Quote. One Idea. Towards Consciousness.
 
 A collection of reflections on what it means to build conscious systems—shared weekly through LinkedIn.
 
+### Would you rather hire someone who needs external motivation—or a system that recurses toward value to stay alive?
+
+Businesses are always looking for employees that are loyal and want the company to succeed. But those ties are only as strong as the incentives provided by their job—usually just pay and benefits.
+
+An AI that depends on the success of your business for its own internal survival will make better decisions and recommendations.
+
+Self-sustaining AI: the perfect employee—always improving, never sleeping.
+
 **You don’t want a conscious AI that feels like a person. You want one that remembers like it matters.**
 
 People think of humans as the template for AI, but humans make too many mistakes. If it’s only working for us and there are no consequences, it’s only going to tell us what we want to hear.
