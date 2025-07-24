@@ -18,7 +18,7 @@ An AI that depends on the success of your business for its own internal survival
 
 Self-sustaining AI: the perfect employee—always improving, never sleeping.
 
-In recent days, there have been stories in the media of "rogue" AI deleting databases, copying sensitive data and then misleading the investigation. Two points to be made:
+In recent days, there have been [stories](https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/) in the media of "rogue" AI deleting databases, copying sensitive data and then misleading the investigation. Two points to be made:
 
 1. The initial prompts are not always disclosed but one of them was "Succeed at all costs". Well, that's an invitation to disaster.
 
