@@ -1,10 +1,10 @@
 ---
-title: Consciousness in 60 Seconds
+title: Consciousness in 60 Words
 layout: default
 description: One Quote. One Idea. Towards Consciousness.
 ---
 
-## Consciousness in 60 Seconds
+## Consciousness in 60 Words
 
 ### One Quote. One Idea. Towards Consciousness
 
