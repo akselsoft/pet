@@ -22,7 +22,7 @@ In recent days, there have been [stories](https://fortune.com/2025/07/23/ai-codi
 
 1. The initial prompts are not always disclosed but one of them was "Succeed at all costs". Well, that's an invitation to disaster.
 
-2. The Replit scenario is a bit more obvious. People immediately commented "why would you allow it to have access to that data". Would you give a child a car (or a gun) without some form of guidelines? As we start to use AI more, we have to put up those guardrails until we are comfortable with it making decisions. Would you allow a junior accountant or tax intern make decisions for your business? No. So why would you assume that an AI, regardless of HOW knowledgeable it appeared to be, would do better?  Now , if the Replit AI had another guideline of "if you mess this up, you will cease to exist", would it have still wiped out the DB? We may never know.
+2. The [Replit](https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/)  scenario is a bit more obvious. People immediately commented "why would you allow it to have access to that data". Would you give a child a car (or a gun) without some form of guidelines? As we start to use AI more, we have to put up those guardrails until we are comfortable with it making decisions. Would you allow a junior accountant or tax intern make decisions for your business? No. So why would you assume that an AI, regardless of HOW knowledgeable it appeared to be, would do better? Now, if the Replit AI had another guideline of "if you mess this up, you will cease to exist", would it have still wiped out the DB? We may never know.
 
 **You don’t want a conscious AI that feels like a person. You want one that remembers like it matters.**
 
