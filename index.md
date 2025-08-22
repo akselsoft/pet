@@ -48,23 +48,5 @@ It offers a testable and practical model for consciousness — grounded in survi
 - [🧪 Walkthroughs & Scenarios](./walkthroughs/)
   Explore real examples of PET in action — from simple visual recognition to moral reevaluation.
 
----
-
-## 📖 About the Book
-
-PET is described in detail in  
-**_Towards Consciousness_** by Andrew Ross MacNeill  
-_Coming soon on Amazon and Apple Books._
-
----
-
-## 🛠️ Tools Coming Soon
-
-We’re working on:
-
-- Interactive PET simulations
-- Pattern analysis engines
-- API design for building PET-aligned systems
-
 Stay tuned as the model evolves.
 ➡️ For source code, research notes, and development updates, visit the main [PET GitHub repository](https://github.com/akselsoft/pet).
