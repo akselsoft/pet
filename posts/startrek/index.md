@@ -1,6 +1,6 @@
 ---
-title: Star Trek & PET
-layout: layout
+layout: default
+title: Star Trek and Pet
 ---
 
 ## "I Am Jadzia Dax"
