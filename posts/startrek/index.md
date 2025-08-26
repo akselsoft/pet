@@ -1,5 +1,3 @@
-# Star Trek and PET
-
 ## "I Am Jadzia Dax"
 
 In the *Star Trek* universe, that simple statement carried centuries of meaning.
