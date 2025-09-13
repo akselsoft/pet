@@ -10,8 +10,8 @@ This section collects **explorations** and **working concepts** based on the Pat
 
 Ideas may take the form of:
 
-- 🧪 **Thought Experiments** — like using PET to explain transporter paradoxes in *Star Trek* or contradictions in memory. [See more](../experiments)
-- 
+- 🧪 **Thought Experiments** — like using PET to explain transporter paradoxes in *Star Trek* or contradictions in memory. [See more](./experiments)
+-
 - 🧭 **Walkthroughs** — [narrative journeys](../walkthroughs) like how a child learns the concept of “dog,” showing PET in action before structure emerges.
 - 🧱 **Schema Proposals** — concrete ways to implement PET, such as the [`GraphPET` node-edge model](./schema)
 
