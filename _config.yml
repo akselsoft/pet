@@ -6,4 +6,5 @@ theme: minima
 header_pages:
   - index.md
   - ideas/index.md
+  - pattern-witness/index.html
   
